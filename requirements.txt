@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-chroma
+chromadb
+sentence-transformers
+streamlit
+pdfplumber
+pypdf
+ragas
+datasets
+unstructured
+markdown
