@@ -37,4 +37,4 @@ env/
 # Local Vector Database & Temp files
 chroma_db/
 temp_*
-data/
+
